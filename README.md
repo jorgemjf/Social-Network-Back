@@ -1,6 +1,6 @@
 # Social-Network-Back
-Hypothetical Social Network developed with Java Spring Boot and local database with MySQL.
+Hypothetical Social Network developed with Java Spring Boot and local MySQL database.
 
 # Authors
-Jorge Jaén Ferrer
+Jorge Jaén Ferrer <br>
 Alejandro Tejada Rodríguez
