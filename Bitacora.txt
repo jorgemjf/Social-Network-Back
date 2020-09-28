@@ -1,0 +1,53 @@
+Julio
+------------------------------------------------------------
+martes 7.
+-------------------
+Alejandro y Jorge:
+Se ha realizado un analisis inicial de la organización del proyecto y se han hecho las entidades.
+
+
+-------------------
+miercoles 8.
+-------------------
+Reparto de tareas y visualización general de algunos aspectos para desarrollar el proyecto.
+Alejandro:
+Realizado el controlador user con sus servicios y repositorios.
+
+Jorge:
+A punto de finalizar el controlador de messages con sus servicios y repositorios.
+(No se sube porque no está completamente probado)
+
+
+-------------------
+jueves 9
+-------------------
+Objetivos:
+1.- Terminar el controlador de messages y sus servicios. Completado.
+3.- Realizar controlador, servicios y repositorios de events
+2.- Crear consultas de los reportes e intentar adaptarlas a jpql o jpa. Primera parte completada.
+
+Alejandro:
+Ayudar a Jorge para realizar el controlador y la lógica de messages repasando algunos conceptos.
+Realizado el controlador de events con sus sericios y repositorios.
+
+Jorge:
+Finalización del controlador de messages con sus servicios y repositorios.
+Realizadas consultas sql de los reportes y se ha empezado a adaptarlas a jpql.
+
+
+-------------------
+viernes 10
+-------------------
+Objetivos:
+1.- Finalizar reports
+2.- Controlar correctamente excepciones
+3.- Realizar pruebas
+
+En general se ha realizado todo en conjunto.
+
+
+-------------------
+lunes 13
+-------------------
+Objetivos:
+Terminar las ampliaciones, pruebas, y ver que optimizar o mejorar. Cumplido.
