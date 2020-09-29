@@ -2,7 +2,7 @@
 Hypothetical Social Network developed with Java Spring Boot and local MySQL database.
 
 # Stack of technologies
-#Eclipse #SpringBoot #SpringData #SpringMVC #JPA #Postman #Swagger
+#Eclipse #SpringBoot #SpringData #SpringMVC #JPA #Postman #Swagger #MySQL #JPQL
 
 # Functionality
 <ul>
